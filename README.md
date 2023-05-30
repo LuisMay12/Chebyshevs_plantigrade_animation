@@ -1,5 +1,5 @@
 # Chebyshevs_plantigrade_animation
-Matlab code to make an Chebyshev's plantigrade machine animation.
+Wolfram Mathematica code to make an Chebyshev's plantigrade machine animation.
 
 In order to make the animation, the following GIF was used like a reference of the ultimate goal.
 
