@@ -5,4 +5,6 @@ In order to make the animation, the following GIF was used like a reference of t
 
 https://upload.wikimedia.org/wikipedia/commons/6/6f/Tchebyshevs_plantigrade_machine.gif
 
+<p align="center">
 ![Chebyshev's plantigrade machine](https://upload.wikimedia.org/wikipedia/commons/6/6f/Tchebyshevs_plantigrade_machine.gif)
+</p>
